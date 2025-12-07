@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Catalyst",
+  "description": "A multimodal AI reasoning engine that transforms abstract problems, messy notes, and whiteboard photos into structured knowledge graphs, feasibility metrics, and actionable project plans using Gemini 2.5 Flash and Deep Thinking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
